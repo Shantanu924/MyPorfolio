@@ -1,9 +1,16 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
 
 :root {
   --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --heading-font: "Raleway",  sans-serif;
   --nav-font: "Poppins",  sans-serif;
+  --ff-rubik-dirt: "Rubik Dirt", cursive;
+  --ff-black-ops-one: "Black Ops One", cursive;
+  --ff-press-start-2p: "Press Start 2P", cursive;
+  --ff-rubik-80s-fade: "Rubik 80s Fade", cursive;
 }
 
 :root { 
