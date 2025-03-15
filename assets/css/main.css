@@ -6,7 +6,7 @@
 :root {
   --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --heading-font: "Raleway",  sans-serif;
-  --nav-font: "Poppins",  sans-serif;
+  --0-font: "Poppins",  sans-serif;
   --ff-rubik-dirt: "Rubik Dirt", cursive;
   --ff-black-ops-one: "Black Ops One", cursive;
   --ff-press-start-2p: "Press Start 2P", cursive;
@@ -16,7 +16,7 @@
 :root { 
   --default-color: #fafafa; 
   --heading-color: #ffffff; 
-  --accent-color: rgb(197, 0, 59);
+  --accent-color: rgb(197, 0, 82);
   --surface-color: #ffffff; 
   --contrast-color: #ffffff;
 }
